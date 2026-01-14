@@ -22,6 +22,7 @@
 - [鉤端螺旋體病 (Leptospirosis)](diseases/leptospirosis.md)
 - [手足口病 (HFMD)](diseases/hfm.md)
 - [茲卡病毒 (Zika)](diseases/zika.md)
+- [登哥哥哥哥] (diseases/denguuuuu.md)
 
 ---
 
