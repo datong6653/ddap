@@ -56,5 +56,4 @@
 
 ## 8. CDC 官方資訊與 QR Code
 - 官方連結：https://www.cdc.gov.tw/Disease/SubIndex/WYbKe3aE7LiY5gb-eA8PBw
-https://www.cdc.gov.tw/Disease/SubIndex/Dengue
 - QR Code：見下方圖片
